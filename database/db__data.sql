@@ -1,0 +1,293 @@
+USE tasti;
+
+#USUARIO
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20204889, 'Annabell Manby', 'amanby0@zdnet.com', 'JUppkOG7',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20179691, 'Gibby Sheasby', 'gsheasby1@blinklist.com', 'CxTYcaDF49',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20218610, 'Mei Mourgue', 'mmourgue2@prweb.com', 'fqMbOL0W',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20170573, 'Findley Emney', 'femney3@technorati.com', 'xawMNdeSH7',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20206090, 'Alex Cardis', 'acardis4@berkeley.edu', '1i28Z5',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20205999, 'Kelvin Hegley', 'khegley5@odnoklassniki.ru', 'WEUMfar3b',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20201264, 'Melantha Vairow', 'mvairow6@paginegialle.it', 'OAVsa3HGh',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20183785, 'Gene Fearnall', 'gfearnall7@so-net.ne.jp', 'WbNCIwPq',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20206921, 'Myrvyn Langhorne', 'mlanghorne8@google.pl', 'kEFzTtOM5x8o',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20202995, 'Mellisa Simoneschi', 'msimoneschi9@joomla.org', 'WJe33Q3b',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20190821, 'Sergei Barsam', 'sbarsama@tinyurl.com', 'O4XUTwRk3aIs',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20218181, 'Germayne Duxbarry', 'gduxbarryb@cornell.edu', 'x06sHQB6G',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20188652, 'Andeee Cloy', 'acloyc@eventbrite.com', 'QYpn9olf',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20188082, 'Waylan Beyer', 'wbeyerd@blog.com', 'zDIM5ZTkIZqT',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20199209, 'Boycie Grunwald', 'bgrunwalde@smugmug.com', 'tkTYurOsK7',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20179730, 'Annette Januszewicz', 'ajanuszewiczf@istockphoto.com', 'GAvKdTfQw8',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20179048, 'Nomi Aspole', 'naspoleg@mozilla.com', 'w0cjoY',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20188344, 'Lian Comi', 'lcomih@ovh.net', 'c9uxpJin93Ks',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20214937, 'Briney Pinney', 'bpinneyi@godaddy.com', 'bhOTyeIqCR',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20208711, 'Cesare Shakesby', 'cshakesbyj@pcworld.com', 'PTfIC8iu',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20215513, 'Dannel Larkin', 'dlarkink@edublogs.org', 'PXo45cmpGDf',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20186176, 'Timothy Huthart', 'thuthartl@ezinearticles.com', 'zhnGrV',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20175226, 'Laura Hinchcliffe', 'lhinchcliffem@fema.gov', 'nwxsGTOUxhW',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20199590, 'Raymond Dallaway', 'rdallawayn@nature.com', 'o9UwtoIw',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20176837, 'Trude Lowseley', 'tlowseleyo@wisc.edu', 'QQ0fNU5',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20170048, 'Bee Rummin', 'brumminp@washingtonpost.com', 'BBfhYrYZIb',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20173426, 'Constantino Pandya', 'cpandyaq@edublogs.org', 'yiFOptN7S',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20211733, 'Janeen Pickworth', 'jpickworthr@yolasite.com', 'hJfDMwMlYTN',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20190748, 'Shannon Coster', 'scosters@woothemes.com', 'YXUFXmVd',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20207666, 'Nikola Collister', 'ncollistert@clickbank.net', 'rXLI4xbx',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20177708, 'Jeana Fossey', 'jfosseyu@vkontakte.ru', 'VOXuwT',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20214645, 'Lianna Rogeon', 'lrogeonv@php.net', 'gjFtsB',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20217201, 'Henri Margrett', 'hmargrettw@comsenz.com', 'SJnpR4j3',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20200126, 'Anthea Garment', 'agarmentx@wunderground.com', 'M7qngSSA',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20219852, 'Rey Burnapp', 'rburnappy@posterous.com', 'VWPuSSWhnVe',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20181079, 'Annabell Leppo', 'aleppoz@noaa.gov', 'fVXlAr',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20206554, 'Warner Aireton', 'waireton10@cam.ac.uk', '6A6dVPhiWr',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20197075, 'Wendye Camock', 'wcamock11@statcounter.com', 'y7ZO0NmDR3SM',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20216150, 'Marcelle MacIntosh', 'mmacintosh12@deviantart.com', '1akYBxBg0h6T',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20211520, 'Ignazio Tebbet', 'itebbet13@mozilla.org', 'zeA94x06tH',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20172138, 'Corrinne Hubbard', 'chubbard14@gov.uk', 'egKp8i',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20200436, 'Ichabod Killingbeck', 'ikillingbeck15@yelp.com', '98TUBCfeLJ',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20208254, 'Sydelle Balkwill', 'sbalkwill16@engadget.com', '1qmus45qBlt',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20170645, 'Christiana Keynes', 'ckeynes17@ning.com', 'h2cROsHqxH',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20203719, 'Benji Insworth', 'binsworth18@tiny.cc', 'xTJDVBxy',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20205307, 'Ali Huyche', 'ahuyche19@printfriendly.com', 'ztH9cwgVC8O',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20204074, 'Karyn Featherstone', 'kfeatherstone1a@home.pl', 'k4BbTla3',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20187059, 'Eve Pinnegar', 'epinnegar1b@skype.com', 'IpO60RbAej',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20210186, 'Clemmy Durban', 'cdurban1c@microsoft.com', 'tocH6hY',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20183901, 'Hamilton Mocher', 'hmocher1d@gmpg.org', 'iic1qOHI1w',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20190760, 'Jim Huertas', 'jhuertas@unsa.edu.pe', 'Holitas_4',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20190742, 'Luisa Villanueva', 'lvillanuevag@unsa.edu.pe', 'Holitas_4',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (20190752, 'Solange Romero', 'sromeroc@unsa.edu.pe', 'Holitas_4',1);
+insert into usuario (cui, nombre, correo_electronico, contrasenia, estado_cuenta) values (12345678, 'Administrador', 'admin@unsa.edu.pe', '123456',1);
+
+#ADMINISTRADOR
+insert into administrador (cui) values (20190760);
+insert into administrador (cui) values (20190742);
+insert into administrador (cui) values (20190752);
+insert into administrador (cui) values (12345678);
+
+#PERFIL
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20204889, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20179691, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1er año, esperando poder aprender de otros.', 20218610, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20170573, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20206090, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20205999, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20201264, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en cpp.', 20183785, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20206921, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20202995,"default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 3er año, esperando poder aprender de otros.', 20190821, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1er año, esperando poder aprender de otros.', 20218181, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 3er año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20188652, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, esperando poder aprender de otros.', 20188082, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20199209, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en cpp.', 20179730, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20179048, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20188344, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20214937, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20208711, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20215513, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20186176, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20175226, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en python.', 20199590, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en cpp.', 20176837, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20170048, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en cpp.', 20173426, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1to año, esperando poder aprender de otros.', 20211733, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en python.', 20190748, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 3ro año, dispuesto a cooperar en tareas que exigen conocimientos de matemática.', 20207666, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en python.', 20177708, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20214645, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20217201, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20200126, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20219852, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en python.', 20181079, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20206554, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 3ro año, esperando poder aprender de otros.', 20197075, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20216150, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20211520, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en java.', 20172138, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20200436, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20208254, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de computación gráfica.', 20170645, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20203719, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20205307, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 2do año, esperando poder aprender de otros.', 20204074, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en javascript.', 20187059, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 1ro año, esperando poder aprender de otros.', 20210186, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 5to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en javascript.', 20183901, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en flutter.', 20190760, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de programación en php.', 20190742, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de nada :).', 20190752, "default-profile.jpg");
+insert into perfil (descripcion, cui, name_img) values ('Estudiante de 4to año, dispuesto a cooperar en tareas que exigen conocimientos de nada :).', 12345678, "default-profile.jpg");
+
+#SOLICITUD REGISTRO
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (1, '2021-11-11 09:56:45', 20202995, 49441272, 1, 20190752, '2021-04-05 04:54:16', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (2, '2021-02-21 02:57:05', 20218181, 36145109, 1, 20190742, '2021-04-03 17:00:03', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (3, '2021-08-26 22:37:13', 20183901, 54149709, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (4, '2021-08-18 14:44:21', 20204889, 65484374, 1, 20190742, '2022-02-03 02:18:39', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (5, '2021-10-14 08:12:42', 20210186, 69654239, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (6, '2022-01-04 01:28:17', 20187059, 61883411, 2, 20190760, '2021-08-31 01:05:04', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (7, '2021-09-07 12:25:16', 20204074, 56747303, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (8, '2021-05-08 14:50:49', 20179691, 33727873, 1, 20190742, '2021-12-24 12:21:15', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (9, '2021-04-29 15:06:56', 20205307, 49022321, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (10, '2021-05-11 22:44:56', 20203719, 56378062, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (11, '2021-02-21 09:54:05', 20218610, 39452830, 1, 20190752, '2021-03-03 12:42:51', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (12, '2021-06-14 10:07:31', 20170645, 49694324, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (13, '2021-06-10 12:04:29', 20208254, 42293879, 2, 20190752, '2021-05-29 14:53:46', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (14, '2021-06-29 13:04:06', 20200436, 68120447, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (15, '2021-01-21 13:32:12', 20172138, 63678595, 2, 20190752, '2021-05-08 21:56:42', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (16, '2021-05-04 19:34:55', 20211520, 48141522, 2, 20190752, '2021-10-29 05:39:05', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (17, '2021-07-22 13:24:01', 20216150, 56499464, 2, 20190760, '2021-02-10 16:44:48', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (18, '2021-12-16 14:03:33', 20197075, 46283401, 2, 20190742, '2022-02-10 02:40:01', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (19, '2021-12-27 13:27:58', 20170573, 60258197, 1, 20190752, '2021-10-08 06:29:04', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (20, '2022-01-23 20:27:43', 20206554, 46062620, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (21, '2022-01-28 20:39:35', 20206090, 40014230, 1, 20190742, '2021-04-11 15:57:18', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (22, '2021-05-01 04:56:35', 20205999, 51328481, 1, 20190752, '2021-11-08 12:31:29', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (23, '2021-02-01 14:04:51', 20219852, 63591043, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (24, '2021-05-27 21:21:32', 20200126, 48859942, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (25, '2021-05-26 22:02:15', 20177708, 51086050, 2, 20190742, '2022-01-18 22:36:36', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (26, '2021-09-30 11:25:24', 20190748, 52852304, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (27, '2021-03-14 22:56:14', 20211733, 34093886, 2, 20190742, '2021-03-08 02:12:36', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (28, '2021-11-06 22:45:43', 20173426, 61440336, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (29, '2021-09-15 05:43:56', 20201264, 34643606, 1, 20190742, '2021-07-31 17:51:33', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (30, '2021-10-14 22:33:08', 20170048, 33119051, 2, 20190752, '2021-05-12 10:05:43', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (31, '2021-06-05 09:43:35', 20176837, 35923472, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (32, '2021-01-24 16:42:45', 20206921, 60754271, 1, 20190752, '2022-02-03 19:15:04', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (33, '2022-01-27 09:34:33', 20199590, 29994557, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (34, '2021-05-03 16:59:15', 20179048, 44056375, 1, 20190752, '2021-06-25 06:45:59', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (35, '2021-06-10 10:41:54', 20214937, 70851677, 1, 20190752, '2021-04-20 05:53:10', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (36, '2021-10-12 15:58:15', 20186176, 63048668, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (37, '2021-07-17 09:52:32', 20188344, 30705431, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (38, '2021-10-29 17:55:37', 20208711, 31098368, 1, 20190752, '2021-12-08 23:20:56', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (39, '2021-03-06 05:38:59', 20215513, 31519885, 1, 20190752, '2021-06-15 22:46:35', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (40, '2021-10-19 14:58:35', 20179730, 34273612, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (41, '2021-01-13 21:38:40', 20175226, 40233376, 1, 20190760, '2021-10-19 11:11:13', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (42, '2021-01-24 07:18:20', 20207666, 39719701, 1, 20190760, '2021-02-22 08:58:05', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (43, '2021-10-28 00:35:58', 20214645, 38136077, 1, 20190752, '2021-06-23 11:54:24', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (44, '2021-12-25 12:09:43', 20199209, 66258445, 2, 20190760, '2021-08-01 23:01:56', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (45, '2021-02-09 18:57:13', 20188082, 64272010, 2, 20190760, '2021-08-18 00:29:41', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (46, '2022-01-14 11:04:46', 20217201, 33888043, 1, 20190752, '2021-09-12 21:59:25', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (47, '2021-05-08 19:17:32', 20188652, 52176692, 2, 20190742, '2021-07-30 07:34:57', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (48, '2021-07-16 00:38:36', 20190821, 31923417, 0);
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado, admin_encargado, fecha_atencion, admin_nota) values (49, '2021-06-14 12:10:10', 20181079, 43291637, 1, 20190742, '2021-11-16 12:15:54', 'conforme');
+insert into solicitud_registro (id, fecha_creacion, user_cui, dni, estado) values (50, '2021-02-19 14:34:59', 20183785, 49467234, 0);
+
+
+#CURSO
+insert into curso (idcurso, nombre, anio, semestre) values (1701101, 'Razonamiento Logico Matematico', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701102, 'Metogologia del Trabajo Intelectual Universitario', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701104, 'Arte Computacional', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701105, 'Ingles Tecnico Profesional I', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701106, 'Fundamentos de Computacion', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701107, 'Estructuras Discretas I', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701114, 'Liderazgo y Oratoria', '1', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1701208, 'Estructuras Discretas II', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1701209, 'Ciencia de la Computacion I', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1701210, 'Calculo en una Variable', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1701212, 'Ingles Tecnico Profesional II', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1701215, 'Comunicacion Integral', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1701216, 'Realidad Nacional', '1', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702117, 'Arquitectura de Computadores', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702118, 'Ciencia de la Computacion II', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702119, 'Desarrollo Basado en Plataformas', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702120, 'Trabajo Interdisciplinar I', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702121, 'Calculo en Varias Variables', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702122, 'Ingles Tecnico Profesional III', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702123, 'Ciudadania e Interculturalidad', '2', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1702224, 'Algoritmos y Estructuras de Datos', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702225, 'Teoria de la Computacion', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702226, 'Base da Datos I', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702227, 'Algebra Lineal Numerica', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702228, 'Estadistica y Probabilidades', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1702229, 'Ecologia y Conservacion Ambiental', '2', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703130, 'Base de Datos II', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703131, 'Analisis y Diseño de Algoritmos', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703132, 'Ingenieria de Software I', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703133, 'Compiladores', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703134, 'Analisis Exploratorio de Datos Espaciales', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703135, 'Ecuaciones Diferenciales', '3', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1703236, 'Programacion Competitiva', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703237, 'Ingenieria de Software II', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703238, 'Estructuras de Datos Avanzados', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703239, 'Sistemas Operativos', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703240, 'Trabajo Interdisciplinar II', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1703241, 'Matematica Aplicada a la Computacion', '3', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704142, 'Investigacion en Ciencias de la Computacion', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704143, 'Desarrollo de Software Empresarial', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704144, 'Redes y Comunicacion', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704145, 'Ingenieria de Software II', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704146, 'Computacion Grafica', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704147, 'Inteligencia Artificial', '4', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1704248, 'Interaccion Humano Computador', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704249, 'Proyecto Final de Carrera I', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704250, 'Computacion Paralela y Distribuida', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704251, 'Seguridad en Computacion', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704252, 'Formacion de Empresas de Base Tecnologica I', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704253, 'Relaciones Humanas', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704254, 'Fisica Computacional', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1704255, 'Topicos en Ingenieria de Software', '4', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705156, 'Proyecto Final de Carrera II', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705157, 'Big Data', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705158, 'Etica General y Profesional', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705159, 'Formacion de Empresas de Base Tecnologica II', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705160, 'Ingles Tecnico Profesional IV', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705161, 'Topicos en Ciencia de Datos', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705162, 'Topicos en Inteligencia Artificial', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705163, 'Topicos en Computacion Grafica', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705164, 'Bioinformatica', '5', '1');
+insert into curso (idcurso, nombre, anio, semestre) values (1705265, 'Cloud Computing', '5', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705266, 'Proyecto Final de Carrera III', '5', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705267, 'Trabajo Interdisciplinar III', '5', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705268, 'Internet de las Cosas', '5', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705269, 'Robotica', '5', '2');
+insert into curso (idcurso, nombre, anio, semestre) values (1705270, 'Topicos en Ciberseguridad', '5', '2');                     
+
+#PREGUNTA
+# 5 6
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (1, '¿why doest work this code?', '¿why doest work this code?', 1702119, 'Code', '2022-06-13 21:56:03', 20204889, 'Lunes:9am a 11am, Martes:11am 2pm', 0, '2022-08-03 22:19:45');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (2, 'video con olas debajo', 'intento hacer un video con olas debajo como este (el remarcado con un cuadrado rojo)', 1702120, 'videos', '2022-06-08 23:11:05', 20218610, 'Jueves:8am a 10pm', 0, '2022-08-25 07:00:15');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (3, 'FaceWp filtro de post por mes wordpress', 'Hola estoy usando un plugin llamado facewp para crear filtros en mis post, necesito filtrar los post por mes, mostrar todos los post de un mes, pero solo tengo un campo de fecha por día, si alguien me podría orientar por donde debo ir, ademas estoy usando un plugin custom fields para crear campos personalizados, pero no se si por ahi va la cosa, ya que no se si es optimo que el usuario agregue la fecha manualmente.', 1702226, 'Wordpress', '2022-05-04 21:44:47', 20206090, 'Miercoles:7am a 12pm', 0, '2022-08-12 00:05:10');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (4, 'Empty cart in ajax Woocommerce', 'Good afternoon, the problem I have today is that I need to modify the shopping cart from the checkout page. I need that when clicking on specific buttons, an ajax request is sent to a server action that removes a product from the cart and adds it again with a different variation_id. The checkout window should be updated automatically The problem I have is that when I connect via ajax to the server the WC()->cart variable contains an empty array even though there are products in the cart (when I see this variable without ajax it returns the cart correctly).', 1702120, 'Wordpress', '2022-06-22 21:26:25', 20205999, 'Lunes y Miercoles:8am a 11am', 0, '2022-07-09 11:40:12');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (5, 'Ocultar menu de navegación en wordpress en template con php', 'Estoy usando wordpress/divi con wcfm que es un marketplace multivendedor. y necesito ocultar el menú en la página de la tienda de los vendedores que no es una Pagina propiamente tal si no que se genera desde un php del plugin wcfm. esta es la pagina(s) en cuestión: https://www.sanpedronline.cl/shop/atacamabreak/ 
+No codifico... normalmente copio/pego. pero no pude encontrar ninguna solución en la web. La mayoría de las soluciones que he encontrado usan ID de página a través de CSS, pero la página de la tienda de los vendedores la genera el template del plugin. Ayuda porfavor! Gracias!!!!', 1702119, 'Wordpress', '2022-05-14 04:20:51', 20201264, 'Martes y Jueves: 5pm a 8pm', 0, '2022-08-22 14:57:55');
+
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (6, '¿Cómo puedo seleccionar un Input en específico si tengo varios con el mismo nombre?', 'Quiero crear varios usuarios. En mi avance he logrado clonar los nodos, cada uno con sus datos diferentes, lo que quiero hacer ahora es poder editar esa información en caso de que esté mal o simplemente se quiera modificar, pero al hacer el proceso similar a lo que hice anteriormente, la información se coloca exactamente igual en todos los nodos y no diferente para cada uno.', 1703130, 'Programacion Web', '2022-06-04 06:46:52', 20206921, 'Martes y Jueves: 5pm a 8pm', 0, '2022-08-25 00:26:05');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (7, 'Nav bien distribuido con CSS', 'Estoy intentando crear una barra superior en el Header, con el icono a la izquierda, parte del menú en el centro, y dos botones a la izquierda, pero no consigo hacerlo. https://github.com/Kakita5595/p-games.git', 1703132, 'Programacion Web', '2022-05-11 11:08:41', 20202995, 'Lunes y Miercoles: 5pm a 8pm', 0, '2022-07-03 04:11:45');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (8, 'Como puedo ajustar el zoom a mi pagina web', 'Es que tengo un problema al tener mi pagina web con un zoom de 100% las personas con otros navegadores tendran el zoom establecido con 80% o 120% o cualquier otro numero lo que pasa es que si lo tienen en otro numero daña toda la estructura css de la pagina', 1703237, 'Programacion Web', '2022-05-19 07:35:38', 20218181, 'Todo el día', 0, '2022-07-23 23:20:26');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (9, 'Pasé Javascript a $_POST php, pero mysqli duplica la entrada', 'En 1 archivo una variable toma la fecha y hora, la guarda en $_POST con Javascript, echo la imprime, otra variable hace la conexión y se guarda en database phpmyadmin.', 1703237, 'Programacion Web', '2022-06-23 23:14:09', 20214937, 'Martes y Jueves: 4pm a 8pm', 0, '2022-07-13 09:11:25');
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite) values (10, 'Acceder a todos los índices de mi Array de una consulta Con PHP Y MySQL', 'Estoy trabajando con JSON que son alojados en mi Base de Datos y al traerlos vienen organizados pero al querer yo acceder a todos los ids de cada uno de ellos no puedo hacerlo ya que estos vuelven a iniciar en [0][1] y así dependiendo de cuantos objetos allá dentro de ellos. Lo que quiero es poder acceder a todos los ID que tengo aquí', 1703130, 'Programacion Web', '2022-05-02 16:57:35', 20208711, 'Lunes, Miercoles y Viernes: 8am 11am', 0, '2022-07-08 13:51:46');
+
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite, cui_mentor, fecha_meet, link_meet, reunion_privada, max_participantes, cupos_disponibles) values (11, 'Ejercicio de Funciones', 'Las dos funciones f y g definidas por f(x) = 3x + 3 para x real y g(t) = 3t + 3 para t real y positivo ¿son iguales?', 1701210, 'Funciones', '2022-05-28 13:01:15', 20215513, 'Lunes, Miercoles y Viernes: 8am 11am', 1, '2022-07-30 20:42:48', 20179691, '2022-07-16 04:32:34', 'https://meet.google.com/pqi-ttmg-rxj', 1, 1, 0);
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite, cui_mentor, fecha_meet, link_meet, reunion_privada, max_participantes, cupos_disponibles) values (12, 'Ejercicio de Funciones', 'Si las funciones f y g tienen dominios Df y Dg respectivamente, entonces el dominio de f / g viene dado por
+(A) la unión de Df y Dg
+(B) la intersección de Df y Dg
+(C) la intersección de Df y Dg sin los ceros de la función g
+(D) Ninguna de las anteriores', 1701210, 'Funciones', '2022-05-12 00:50:42', 20207666, 'Lunes y Miercoles: 6pm a 8pm', 1, '2022-08-16 00:58:01', 20170573, '2022-07-14 20:31:22', 'https://meet.google.com/pqi-ttmg-rxj', 1, 1, 0);
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite, cui_mentor, fecha_meet, link_meet, reunion_privada, max_participantes, cupos_disponibles) values (13, 'Rotacionar una columna de cubos', 'Crear una estructura de datos para dibujar una columna de cubos , 3 cubos y permitir su rotacion en relacion al cubo del medio como explicado en clase.', 1704146, 'OpenGL', '2022-06-04 01:35:26', 20207666, 'Martes y Jueves: 4pm a 7pm', 1, '2022-07-12 16:45:46', 20179048, '2022-07-04 00:58:06', 'https://meet.google.com/pqi-ttmg-rxj', 0, 5, 4);
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite, cui_mentor, fecha_meet, link_meet, reunion_privada, max_participantes, cupos_disponibles) values (14, 'Interconexion de redes', '¿Cuál es la diferencia entre una conexión DTE o DCE serial, que tipo de cable usa cada una?', 1704144, 'DTE vs DCE', '2022-06-24 21:31:36', 20214645, 'Martes y Jueves: 7am a 10pm', 1, '2022-07-10 03:30:36', 20175226, '2022-07-16 02:50:47', 'https://meet.google.com/pqi-ttmg-rxj', 0, 3, 2);
+insert into pregunta (id, titulo, descripcion, curso, tema, fecha_publicacion, cui_usuario, disponibilidad, estado, fecha_limite, cui_mentor, fecha_meet, link_meet, reunion_privada, max_participantes, cupos_disponibles) values (15, 'Interconexion de redes', '¿De qué modos se dispone dentro del CLI? Especifique las diferencias', 1704144, 'CLI', '2022-06-08 06:04:27', 20217201, 'Martes y Miercoles: 4pm a 6pm', 1, '2022-07-29 10:28:31', 20181079, '2022-08-18 13:49:47', 'https://meet.google.com/pqi-ttmg-rxj', 0, 4, 3);
+
+
+#REVISION
+insert into solicitud_revision_pregunta (id, id_pregunta, cui_usuario, fecha_creacion, razon, estado, cui_admin, admin_nota, fecha_solucion) values (1, 1, 20205999, '2022-01-29 01:50:35', 'no se entiende', 1, 20190760, 'revisado', '2022-01-27 07:41:09');
+insert into solicitud_revision_pregunta (id, id_pregunta, cui_usuario, fecha_creacion, razon, estado, cui_admin, admin_nota, fecha_solucion) values (2, 2, 20205999, '2022-02-20 23:02:43', 'no se entiende', 1, 20190752, 'revisado', '2022-02-04 09:57:05');
+insert into solicitud_revision_pregunta (id, id_pregunta, cui_usuario, fecha_creacion, razon, estado, cui_admin, admin_nota, fecha_solucion) values (3, 3, 20205999, '2022-03-25 00:39:30', 'no se entiende', 1, 20190752, 'revisado', '2022-03-06 04:18:52');
+insert into solicitud_revision_pregunta (id, id_pregunta, cui_usuario, fecha_creacion, razon, estado, cui_admin, admin_nota, fecha_solucion) values (4, 4, 20179691, '2021-11-21 02:17:40', 'no se entiende', 1, 20190752, 'revisado', '2022-06-04 01:14:13');
+insert into solicitud_revision_pregunta (id, id_pregunta, cui_usuario, fecha_creacion, razon, estado, cui_admin, admin_nota, fecha_solucion) values (5, 5, 20218610, '2022-05-25 13:32:59', 'no se entiende', 1, 20190752, 'revisado', '2022-01-20 14:37:23');
+
+
+#PREGUNTA RECHAZADA
+insert into pregunta_rechazada (id_pregunta) values (1);
+insert into pregunta_rechazada (id_pregunta) values (2);
+insert into pregunta_rechazada (id_pregunta) values (3);
+insert into pregunta_rechazada (id_pregunta) values (4);
+insert into pregunta_rechazada (id_pregunta) values (5);
+#PREGUNTA_NO RECHAZADA
+insert into pregunta_no_rechazada (id) values (6);
+insert into pregunta_no_rechazada (id) values (7);
+insert into pregunta_no_rechazada (id) values (8);
+insert into pregunta_no_rechazada (id) values (9);
+insert into pregunta_no_rechazada (id) values (10);
+insert into pregunta_no_rechazada (id) values (11);
+insert into pregunta_no_rechazada (id) values (12);
+insert into pregunta_no_rechazada (id) values (13);
+insert into pregunta_no_rechazada (id) values (14);
+insert into pregunta_no_rechazada (id) values (15);

@@ -1,0 +1,84 @@
+.lista-cursos {
+    border-radius: 10px;
+    width: 30%;
+    background-color: var(--color_light_gray);
+    max-width: 270px;
+
+}
+
+.lista-cursos__header{
+    background-color: transparent;
+    height: 4rem;
+    width: 100%;
+    margin-bottom: inherit;
+}
+
+.lista-cursos hr {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    border-top: none;
+
+}
+.lista-cursos__header select {
+    border: none;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    background-color: var(--color_light_gray);
+}
+
+.lista-cursos__contenedor-cursos {
+    width: 100%;
+    height: calc(100% - 4rem );
+    overflow-y: scroll;
+    overscroll-behavior-y: contain;
+    scroll-snap-type: y proximity;    
+}
+
+.lista-cursos__contenedor-cursos::-webkit-scrollbar {
+    display: block;
+    width: 3px;
+}
+.lista-cursos__contenedor-cursos::-webkit-scrollbar-track {
+    background: none;
+}
+
+.lista-cursos__contenedor-cursos::-webkit-scrollbar-thumb {
+    display: block;
+    border-radius: 10px;
+    background: var(--color_gray);
+}
+
+.lista-cursos__curso {
+    width: 100%;
+    min-height: 3rem;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;  
+    background-color: transparent;
+}
+
+.lista-cursos__curso:hover {
+    font-weight: 500;
+}
+
+.lista-cursos__curso span {
+    display: inline-block;
+    align-self: center;
+}
+
+.lista-cursos__curso div{
+    display: inline-block;
+    min-height: 2rem;
+    height: inherit;
+    padding-left: 5px;
+    margin-right: 20px;
+    background-color: transparent;
+    border-radius: 0 10px 10px 0;
+}
